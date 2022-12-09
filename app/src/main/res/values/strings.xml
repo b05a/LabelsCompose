@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labels</string>
+
+
+
+    <string name="numberLabelName">Количество символов в названии не должно быть больше 11</string>
+    <string name="vertical">"вертикальных"</string>
+    <string name="horizontal">горизонтальных</string>
+</resources>
